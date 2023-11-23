@@ -1,6 +1,6 @@
 import React from "react";
 import Topbar from "../component/Topbar";
-import Manubar from "../component/Manubar";
+import Menubar from "../component/Menubar";
 import { RiVideoChatFill } from "react-icons/ri";
 import { FaMicrophoneLines } from "react-icons/fa6";
 import { FaRegShareFromSquare } from "react-icons/fa6";
@@ -13,7 +13,7 @@ const Classes = () => {
       <div className=" w-[70%] h-[600px] border-4 rounded border-black">
         <div className="flex">
           <div>
-            <Manubar />
+            <Menubar />
           </div>
           <div className="w-full px-8">
             <div className="">
