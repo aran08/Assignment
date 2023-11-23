@@ -9,4 +9,6 @@
 
 ## To Run 
 
+- `npm i` to install dependencies 
 - `npm start`
+  
