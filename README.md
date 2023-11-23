@@ -7,7 +7,7 @@
 - Getting started with installation of Reactjs.
 - After that install `Telwind-css` & `React-icons` for styling and to use Icons purposes.
 
-## To Run in Your System
+## To Run on Your System
 
 - `npm i` to install dependencies 
 - `npm start` to open in browser
